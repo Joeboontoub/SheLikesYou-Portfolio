@@ -94,6 +94,8 @@ Unity 6 · C# · Universal Render Pipeline (URP) · Cinemachine · Input System 
 ### โครงสร้างโค้ด
 สคริปต์ที่เขียนสำหรับเกมนี้อยู่ใน [`Scripts/`](Scripts/) (ส่วน Editor Tools อยู่ใน [`Scripts/Editor/`](Scripts/Editor/))
 
+> repo นี้มีเฉพาะโค้ด C# ที่เขียนสำหรับเกม ส่วนโปรเจกต์ Unity ฉบับเต็มใช้ asset ที่มีลิขสิทธิ์ จึงเก็บไว้เป็น private
+
 | ไฟล์ | หน้าที่ |
 |---|---|
 | `GameManager.cs` | สถานะเกม, ภารกิจ, Intro, ฉากจบ |
@@ -178,6 +180,8 @@ Unity 6 · C# · Universal Render Pipeline (URP) · Cinemachine · Input System 
 
 ### Code overview
 The gameplay scripts are in [`Scripts/`](Scripts/), and the Editor tools are in [`Scripts/Editor/`](Scripts/Editor/).
+
+> This repository contains only the C# code written for the game. The full Unity project uses licensed third-party assets, so it is kept private.
 
 | File | Purpose |
 |---|---|
